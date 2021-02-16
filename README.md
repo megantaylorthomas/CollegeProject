@@ -1,2 +1,2 @@
-# OldCollegeProjects
-Collection of my old code from college (don't judge me too hard) 
+# A Collection of My Old College Projects
+(don't judge me too hard) 
